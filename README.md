@@ -1,5 +1,5 @@
 # WELCOME! 👋🏻
-My name is Nycolas, I am currently 17 years old, I currently live in the interior of São Paulo, a big city in Brazil.
+My name is Nycolas, I am currently 19 years old, I currently live in the interior of São Paulo, a big city in Brazil.
 I started programming 7 years ago, using languages ​​such as JavaScript and Lua, but 6 months ago I fell in love with Java and have continued to do so until today.
 My biggest inspiration to start programming was the desire to create Minecraft Servers. And today I own one.
 
