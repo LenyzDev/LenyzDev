@@ -13,5 +13,5 @@ In addition to more than 10,000,000 people who have already passed through our n
 
 ## Github History
 <p align="center">
-  <img height"100em" src="https://github-readme-streak-stats.herokuapp.com?user=LenyzDev&theme=dark&locale=pt-br)](https://git.io/streak-stats" alt="streak"><br/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LenyzDev&theme=dark" alt="GitHub Streak" /></a>
 </p>  
