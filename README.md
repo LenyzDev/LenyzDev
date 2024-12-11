@@ -12,4 +12,4 @@ A Minecraft server aimed at the Brazilian public, which has more than 50,000 mem
 In addition to more than 10,000,000 people who have already passed through our network!
 
 ## Github History
-[!][GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LenyzDev&theme=dark)](https://git.io/streak-stats)
