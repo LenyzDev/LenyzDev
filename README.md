@@ -10,6 +10,3 @@ This is Lenyz Corporation's first major project, a Server with several innovatio
 This is the biggest project I've ever participated in my entire life.
 A Minecraft server aimed at the Brazilian public, which has more than 50,000 members on discord.
 In addition to more than 10,000,000 people who have already passed through our network!
-
-## Github History
-[![GitHub Streak](https://streak-stats.demolab.com?user=LenyzDev)](https://git.io/streak-stats)
