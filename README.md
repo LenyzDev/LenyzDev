@@ -9,4 +9,4 @@ This is Lenyz Corporation's first major project, a Server with several innovatio
 ## MINE WAY
 This is the biggest project I've ever participated in my entire life.
 A Minecraft server aimed at the Brazilian public, which has more than 50,000 members on discord.
-In addition to more than 10,000,000 people who have already passed through our network!
+In addition to more than 10,000,000 accounts who have already passed through our network!
